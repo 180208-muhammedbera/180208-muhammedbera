@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @180208-muhammedbera
-- 👀 I’m interested in software engineering,guitar and bakeball.
+- 👀 I’m interested in software engineering,guitar and basketball.
 - 🌱 I’m currently learning python.
 - 💞️ I’m looking to collaborate on projects.
 - 📫 my e-mail= mberayildirim34@gmail.com
